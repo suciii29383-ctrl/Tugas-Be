@@ -2,7 +2,7 @@
 include 'header.php';
 ?>
 <h2>Selamat Datang di Website</h2>
-<p>Membentuk Generasi Cerdas dan Berkarakter.<
+<p>Membentuk Generasi Emas.<
 <?php
 require 'footer.php';
 ?>
